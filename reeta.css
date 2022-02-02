@@ -1,0 +1,104 @@
+body {
+    background-color: rgba(216, 67, 166, 0.418);
+  }
+  
+  h1 {
+    float: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 150px;
+    margin-left: 1in;
+    color: white;
+    text-shadow: 4px 4px 10px #000000;
+    
+  }
+h2 {
+    clear: both;
+    text-align: center;
+    margin-top: 1.5in; 
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+      width: 500px;
+      border: 15px solid #e7717d;
+      padding: 50px;
+      margin: 20px;
+    
+}
+#syr {
+    border-radius: 50%;
+  width: 600px;
+}
+
+  img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h3 {
+    clear: both;
+    text-align: center;
+    margin-top: 10px; 
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 37px;
+    line-height: 0.9;
+    margin-bottom: 20px; 
+   }
+    
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    background: #c2cad0;
+    background-size: cover;
+    padding: 20px;
+    text-align: justify;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#web140 {
+text-align: center;
+}
+#taeliz {
+    text-align: center;
+}
+#biz {
+  text-align: center;
+}
+#flickr {
+    text-align: center;
+}
+#logo {
+  width: 300px;
+  height: 300px;
+}
+button {
+  border: 5px solid #e7717d;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+button:hover {
+  background-color: #e7717d;
+}
+#cycle {
+    text-align: center;
+}
+footer {
+  background: #c2cad0;
+  color: #F7FFF7;
+  padding: 2px 2px 2px 2px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contact-links {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.contact-links a {
+  padding: 5px;
+  display: inline-block;
+  padding: 15px;
+}
